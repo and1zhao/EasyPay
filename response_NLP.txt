@@ -1,0 +1,51 @@
+{
+  "usage": {
+    "text_units": 1,
+    "text_characters": 29,
+    "features": 2
+  },
+  "relations": [],
+  "language": "en",
+  "entities": [
+    {
+      "type": "Name",
+      "text": "Andy",
+      "disambiguation": {
+        "subtype": [
+          "NONE"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Function",
+      "text": "owe",
+      "disambiguation": {
+        "subtype": [
+          "NONE"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Amount",
+      "text": "$15",
+      "disambiguation": {
+        "subtype": [
+          "NONE"
+        ]
+      },
+      "count": 1
+    },
+    {
+      "type": "Reason",
+      "text": "for taco",
+      "disambiguation": {
+        "subtype": [
+          "NONE"
+        ]
+      },
+      "count": 1
+    }
+  ]
+}
